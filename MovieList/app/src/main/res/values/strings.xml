@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_name">Movie Name</string>
+    <string name="enter_page">Page</string>
+    <string name="title">Search Related Movies</string>
+    <string name="main_title">List of Movies and Shows</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_reset">Reset</string>
+    <string name="set_title">Title: </string>
+    <string name="set_year">Year: </string>
+</resources>
